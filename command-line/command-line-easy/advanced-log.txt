@@ -1,0 +1,7 @@
+Directory for Rabbit
+.:
+advanced-log.txt
+easy-log.txt
+intermediate-log.txt
+list_files.sh
+secret.txt
