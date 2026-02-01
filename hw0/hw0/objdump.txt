@@ -1,0 +1,4 @@
+1. The file format that is being used is the executable and linkable format, a format that Linux uses. 
+2. Some of the segments I found are Program Header, Dynamic Section, Sections, Version References, and Symbol Table.  
+3. The segment main should contain the main function, the address should be 0x7fffffffcfc8, but I could not find it in the objdump.
+4. I see something that says “stack off,” which I think implies that a stack was not happening. Heap, on the other hand, I could not see anything.

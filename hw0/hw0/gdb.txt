@@ -1,0 +1,6 @@
+1. The value of argv is 2.
+2. Argv is pointed to the file location of what is being executed in the hw0 file.
+3. The address of the main function is 0x7fffffffcfc8
+4. The info stack shows what the program has after hitting a breakpoint.
+5. The info frame displays the address and updates whenever the code runs.
+6. The register that holds aspects of the program that I recognize is rbx. 
